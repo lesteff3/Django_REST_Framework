@@ -1,1 +1,1 @@
-# Django_REST_Framework
+# In this repository, I studied Django REST Framework
